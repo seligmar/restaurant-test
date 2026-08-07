@@ -1,9 +1,12 @@
 import "./header.css";
 
-export default function n() {
+export default function NavigationBar() {
 	return (
 		<nav>
-		<button>button</button>
+			<button>Willkommen</button>
+			<button>SpeiseKarte</button>
+			<button>Galerie</button>
+			<button>Uber Uns</button>
 		</nav>
 	);
 }

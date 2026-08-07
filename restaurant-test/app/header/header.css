@@ -1,5 +1,9 @@
 .header-text {
 	color: black;
 	text-align: center;
+	/* position: fixed; */
 	padding: 10 0 10 0;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 0;
 }
