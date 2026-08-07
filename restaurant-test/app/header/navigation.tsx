@@ -7,6 +7,7 @@ export default function NavigationBar() {
 			<button>SpeiseKarte</button>
 			<button>Galerie</button>
 			<button>Uber Uns</button>
+			<button>To-Go</button>
 		</nav>
 	);
 }

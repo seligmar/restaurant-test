@@ -38,4 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Recommend to update:
 
 ** little icon in corner of website (flavicon)
+** make most important info sticky, not everything 
+** images on hover show image id, not what the image actually shows 
 ** 
