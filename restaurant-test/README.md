@@ -42,5 +42,4 @@ Recommend to update:
 ** images on hover show image id, not what the image actually shows
 ** need "uber uns" text in German and English
 ** how much business comes from "to go" option?
-** external links to other local resources? -- political question
-
+** external links to other local resources? -- political question?
