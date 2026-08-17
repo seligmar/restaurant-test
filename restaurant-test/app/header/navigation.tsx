@@ -1,9 +1,11 @@
 import Link from "next/link";
+import Image from "next/image";
 import "./header.css";
 
 export default function NavigationBar() {
 	return (
 		<nav className="navbar background-green">
+			<Image />
 			<Link
 				className="navbar-link background-green"
 				href={"/"}>
